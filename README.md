@@ -83,8 +83,8 @@ This project provides a Python-based tool to analyze resumes against job descrip
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/NamanSingh69/Resume-Analyzer
+    cd Resume-Analyzer
     ```
 
 2.  **Create a virtual environment (recommended):**
